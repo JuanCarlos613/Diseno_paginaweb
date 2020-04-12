@@ -29838,3 +29838,20 @@ input.datetimepicker[data-color='yellow'] + .bootstrap-datetimepicker-widget.dro
 {
     background: transparent;
 }
+.botonpos
+{
+    margin-bottom: 10px;
+    bottom: 8px;
+    top: 35px;
+    left: auto;
+    right: 40px;    
+}
+
+.botonposdos
+{
+    margin-bottom: 10px;
+    bottom: 8px;
+    top: 35px;
+    left: 30px;
+    right: 40px;    
+}
